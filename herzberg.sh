@@ -1,6 +1,6 @@
 # This a terminal script for logging into herzberg - machine in McGuire Group.
 # First, contact Alex Byrne lxbyrne@mit.edu to set up an account on Herzberg.
-# Then, run the ssh command below
+# Then, run the ssh command below.
 
 # ssh into herzberg with your username, replaced 'username' with your actual username
 ssh jasmine@herzberg.mit.edu
@@ -10,3 +10,5 @@ ssh jasmine@herzberg.mit.edu
 
 # This closes the connection to herzberg
 exit
+
+# You can download fetch for accessing herzberg https://fetchsoftworks.com/fetch/download/
